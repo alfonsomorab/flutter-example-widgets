@@ -17,13 +17,13 @@ Here we are going to implement some Widgets into the Flutter, like this:
 
 Alerts, avatars and cards 
 
-![Alt Text](http://alfonsomora.xyz/images-to-github/flutter-example-app-1.gif)
+<img src="http://alfonsomora.xyz/images-to-github/flutter-example-app-1.gif" />
 
 ## Second example
 
 Animations and inputs
 
-![Alt Text](http://alfonsomora.xyz/images-to-github/flutter-example-app-2.gif)
+<img src="http://alfonsomora.xyz/images-to-github/flutter-example-app-2.gif" />
 
 
 
