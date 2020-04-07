@@ -18,6 +18,8 @@ Here we are going to implement some Widgets into the Flutter, like this:
 Alerts, avatars and cards 
 
 <img src="http://alfonsomora.xyz/images-to-github/flutter-example-app-1.gif" />
+![alt text](https://github.com/alfonsomorab/flutter-example-widgets/blob/master/example-images/flutter-example-app-1.gif "Logo Title Text 1")
+
 
 ## Second example
 
