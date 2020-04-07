@@ -13,11 +13,15 @@ Here we are going to implement some Widgets into the Flutter, like this:
 - Use the slider control to modify the size of an image
 - Create a ListView with images, we implement infinite scroll and pull to refresh
 
-# First example
+## First example
+
+Alerts, avatars and cards 
 
 ![Alt Text](http://alfonsomora.xyz/images-to-github/flutter-example-app-1.gif)
 
-# Second example
+## Second example
+
+Animations and inputs
 
 ![Alt Text](http://alfonsomora.xyz/images-to-github/flutter-example-app-2.gif)
 
