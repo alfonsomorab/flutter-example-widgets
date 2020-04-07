@@ -17,15 +17,16 @@ Here we are going to implement some Widgets into the Flutter, like this:
 
 Alerts, avatars and cards 
 
-<img src="https://github.com/alfonsomorab/flutter-example-widgets/blob/master/example-images/flutter-example-app-1.gif?raw=true" />
-![alt text](https://github.com/alfonsomorab/flutter-example-widgets/example-images/flutter-example-app-1.gif "Logo Title Text 1")
+<img width="240px" height="400" src="https://github.com/alfonsomorab/flutter-example-widgets/blob/master/example-images/flutter-example-app-1.gif?raw=true" />
+
 
 
 ## Second example
 
 Animations and inputs
 
-<img src="http://alfonsomora.xyz/images-to-github/flutter-example-app-2.gif" />
+<img width="240px" height="400" src="https://github.com/alfonsomorab/flutter-example-widgets/blob/master/example-images/flutter-example-app-2.gif?raw=true" />
+
 
 
 
