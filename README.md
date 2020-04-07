@@ -1,6 +1,27 @@
-# flutterexamplewidgets
+# flutter example widgets
 
 A new Flutter example application.
+
+Here we are going to implement some Widgets into the Flutter, like this:
+
+- How to use Alerts
+- Navigate to other pages into the application
+- Modify de Floating action button
+- Create new cards with images from internet
+- Create awesome animations
+- How to use inputs and text controllers
+- Use the slider control to modify the size of an image
+- Create a ListView with images, we implement infinite scroll and pull to refresh
+
+# First example
+
+![Alt Text](http://alfonsomora.xyz/images-to-github/flutter-example-app-1.gif)
+
+# Second example
+
+![Alt Text](http://alfonsomora.xyz/images-to-github/flutter-example-app-2.gif)
+
+
 
 ## Getting Started
 
